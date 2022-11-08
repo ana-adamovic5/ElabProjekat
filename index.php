@@ -10,6 +10,7 @@
 <body>
     <section class="header">
         <h1>Ovaj sajt sluzi za isprobavanje git-a.</h1>
+        <p>Dodat je tekst.</p>
     </section>
     
 </body>
