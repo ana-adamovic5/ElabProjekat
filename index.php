@@ -13,6 +13,8 @@
         <h2>Dodat novi naslov.</h2>
         <p>Dodat je tekst.</p>
         <p>Dodat je jos jedan tekst.</p>
+
+        <p>Testiranje nove grane</p>
     </section>
     
 </body>
